@@ -35,7 +35,7 @@
 ### 🛠️ Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,tailwind,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,tailwind,bootstrap,postman,cpp,vscode" />
 </p>
 
 ---
