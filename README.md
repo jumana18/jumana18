@@ -41,11 +41,7 @@
 ---
 
 
-### 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jumana18&layout=compact&theme=tokyonight)
-
----
 
 
 ⭐ From **Jumana Hasin**
