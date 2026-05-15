@@ -8,10 +8,15 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently working on **ERP System**
+  
 - 🌱 I’m learning **Advanced MERN Stack Development**
+  
 - 👯 I’m looking to collaborate on **Full Stack Projects**
+  
 - 💬 Ask me about **React, Node.js, Express, MongoDB**
+  
 - 🌐 Portfolio: **https://jumanahasinkammiyil.netlify.app**
+  
 - 📫 Email: **jumanahasinkammiyil@gmail.com**
 
 ---
@@ -20,9 +25,7 @@
 
 <p align="left">
 
-<a href="https://github.com/jumana18">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+
 
 <a href="https://linkedin.com/in/jumanakammiyil">
 <img src="https://skillicons.dev/icons?i=linkedin" />
